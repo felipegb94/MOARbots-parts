@@ -1,1 +1,3 @@
 This is a file where we will all try to put in our own new line and see it merge automatically
+
+This is something Shira has added. Hi world!
